@@ -5,6 +5,19 @@ Sentiment Analysis Notebook
 
 ### https://2021hy-team6.github.io/projects-blog/ai/
 
+##### Notebooks
+
+- [Batched Preprocessing](./Preprocessing_Batched.ipynb)
+  - Preprocessing in batched works to deal with ~3 million rows
+- [Data Inspection](./Data_Inspection.ipynb)
+  - Statistical approach of dataset
+- [Sentiment Analysis](./Sentiment_Analysis.ipynb)
+  - Main methodology of this project
+- [Parameter Optimization](./Param_Optimization.ipynb)
+  - Figure out which numeric values are optimal constants
+- [Model Evaluation](./Model_Evaluation.ipynb)
+  - Evaluation for classification models
+
 ##### Related Work
 
 We referred to several blogs, datasets and libraries in order to create the model and its training notebook.
