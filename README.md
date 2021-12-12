@@ -2,10 +2,6 @@
 ##### https://2021hyt6-techblog.github.io/projects-blog/ai/
 Sentiment Analysis Notebook
 
-##### Accompanying Blog
-
-### https://2021hy-team6.github.io/projects-blog/ai/
-
 ##### Notebooks
 
 - [Batched Preprocessing](./Preprocessing_Batched.ipynb)
